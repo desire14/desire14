@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @desire14
-- 👀 I’m interested in ...new opportunities in Front End Development.
+- 👋 Hi, I’m Dasaray (@desire14)!
+- 👀 I’m interested in ...new opportunities in Front End Development and UX/UI Design.
 - 🌱 I’m currently learning ...Front End Development techniques such as Bootstrap, JS/Jquery, and eventually React. 
 - 📫 How to reach me ...dfyall14@gmail.com, https://www.linkedin.com/in/fyall014/, and dfyall.com.
 
